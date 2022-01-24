@@ -408,6 +408,9 @@ header .header__top .header__user  .header__search{
     }
 
     /* footerni yasash k k */
+    footer{
+        background-color: black;
+    }
 
     /* media query  */
     /* for mobile phones */
